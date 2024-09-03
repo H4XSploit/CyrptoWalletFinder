@@ -28,3 +28,12 @@ Download the EXE file. Run the application on your computer. Explore the feature
 If you have any questions or feedback, feel free to reach out via GitHub.
 
 Note: By downloading or using this software, you agree to the terms outlined in this disclaimer.
+
+⚠️ Notice Regarding Virus Warning
+
+Some antivirus and security programs may mistakenly identify this application as potentially harmful or as a virus. This is because the application contains executable files (.exe) and code that may be considered suspicious in certain contexts (e.g., the generation of cryptographic keys).
+
+Please note:
+
+This application is safe and has been developed exclusively for educational purposes. It contains no malicious or harmful elements.
+False Positives: Some antivirus programs may incorrectly flag legitimate software as a threat. This is known as a "false positive" and can occur with software that uses cryptography or network interfaces.
